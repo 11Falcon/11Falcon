@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an AI engineer with a mechanical and industrial background<br>🔭 I’m currently working on a process digitalisation <br>🌱 I’m currently learning LLM<br>
+I'm an AI engineer with a mechanical and industrial background<br>🔭 
 
 
 ## 🌐 Socials:
